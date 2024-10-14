@@ -1,7 +1,6 @@
 .about {
   display: flex;
   background-color: #0a2850;
-  font-family: "Inter", "Arial", sans-serif;
   color: #fff;
   padding: 100px 80px 173px;
   justify-content: space-between;
